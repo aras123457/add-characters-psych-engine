@@ -1,5 +1,5 @@
 bf
-dad
+4_fuck
 gf
 spooky
 pico
@@ -16,6 +16,5 @@ bf-pixel
 gf-pixel
 senpai
 senpai-angry
-spirit
-bf-pixel-opponent
-pico-player
+
+
